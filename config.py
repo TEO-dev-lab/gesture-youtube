@@ -1,0 +1,8 @@
+# config.py
+SWIPE_THRESHOLD = 15   # Sensitivity (pixels)
+CAMERA_ID = 0             # Camera ID (0 - built-in)
+FRAME_WIDTH = 640
+FRAME_HEIGHT = 480
+MIN_DETECTION_CONFIDENCE = 0.7
+MIN_TRACKING_CONFIDENCE = 0.5
+DEMONSTRATE_CAMERA = False
